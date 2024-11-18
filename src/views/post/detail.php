@@ -1,6 +1,6 @@
 <?php
 session_start();
-$title = '投稿詳細-PHP8掲示板';
+$title = '投稿詳細-PHP8掲示板もどき';
 $description = '投稿詳細';
 $path = '../../';
 $header_path = $path . 'layout/header.php';

@@ -1,6 +1,6 @@
 <?php
 session_start();
-$title = '新規投稿-PHP8掲示板';
+$title = '新規投稿-PHP8掲示板もどき';
 $description = '投稿機能';
 $path = './';
 

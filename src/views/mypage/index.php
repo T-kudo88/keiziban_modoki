@@ -1,6 +1,6 @@
 <?php
 session_start();
-$title = 'マイページ-PHP8掲示板';
+$title = 'マイページ-PHP8掲示板もどき';
 $description = 'マイページ';
 $path = '../../';
 

@@ -3,7 +3,7 @@
 
 <?php
 
-$title = 'ログアウト-PHP8掲示板';
+$title = 'ログアウト-PHP8掲示板もどき';
 $description = 'ログアウト';
 $path = '../../';
 

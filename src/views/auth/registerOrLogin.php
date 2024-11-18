@@ -1,6 +1,6 @@
 <?php
 session_start();
-$title = 'ユーザー登録-PHP8掲示板';
+$title = 'ユーザー登録-PHP8掲示板もどき';
 $description = '新規登録';
 $path = '../../';
 
