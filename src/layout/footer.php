@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <p class="text-center p-3 pb-0">Copyright © 2023- monsho_youtube</p>
+                <p class="text-center p-3 pb-0">Copyright © 2024- tatsuya_practice</p>
             </div>
         </div>
     </div>
