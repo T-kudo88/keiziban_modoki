@@ -10,5 +10,5 @@ if (isset($_SESSION['is_login'])) {
 //Logout
 deleteAllSession();
 
-header("Location:{$path}index.php", true, 301);
+header("Location:{$path}index.php", true, 30);
 exit;
